@@ -73,12 +73,12 @@ Note:
 
 Our algorithm achieves the following performance:
 
-| Technique name | b_bp(443) | a_pg(443) | a_pg(443) | a_dg(443) | a_g(443) | a_d(443) |
-| --------------------------------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| Semi Analytical Algorithm               | 0.99             | 0.96             | 0.97             | 0.96             | do not exist | do not exist |
-| Quasi Analytical Algorithm              | 0.98             | 0.93             | 0.98             | 0.93             | do not exist | do not exist |
-| NN algorithm by [Ioannou et. al.](https://doi.org/10.1016/j.rse.2013.02.015)                     | 0.99             | 0.92             | 0.98             | 0.93             | 0.92             | 0.89             |
-| Proposed Modified-NN algorithm                    | **0.99**             | **0.98**             | **0.99**             | **0.98**             | **0.97**             | **0.51**             |
+| Technique name                                                               | b_bp(443) | a_pg(443) | a_pg(443) | a_dg(443) | a_g(443)     | a_d(443)     |
+| ---------------------------------------------------------------------------- | --------- | --------- | --------- | --------- | ------------ | ------------ |
+| Semi Analytical Algorithm                                                    | 0.99      | 0.96      | 0.97      | 0.96      | do not exist | do not exist |
+| Quasi Analytical Algorithm                                                   | 0.98      | 0.93      | 0.98      | 0.93      | do not exist | do not exist |
+| NN algorithm by [Ioannou et. al.](https://doi.org/10.1016/j.rse.2013.02.015) | 0.99      | 0.92      | 0.98      | 0.93      | 0.92         | 0.89         |
+| Proposed Modified-NN algorithm                                               | **0.99**  | **0.98**  | **0.99**  | **0.98**  | **0.97**     | **0.51**     |
 
 ## Acknowledgement
 
